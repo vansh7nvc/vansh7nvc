@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C8FF,100:8A2BE2&height=240&section=header&text=Vansh%20Sharma&fontAlignY=38&fontSize=60&fontColor=ffffff&desc=Full-Stack%20MERN%20%7C%20AI%20%26%20Machine%20Learning&descAlignY=60&descSize=20&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C8FF,100:8A2BE2&height=240&section=header&text=Vansh%20Sharma&fontAlignY=38&fontSize=60&fontColor=ffffff&desc=Full-Stack%20MERN%20%7C%20AI%20and%20Machine%20Learning&descAlignY=60&descSize=20&animation=twinkling" width="100%" />
 
 <br/>
 
@@ -106,14 +106,14 @@ I am a Full-Stack Developer and Artificial Intelligence enthusiast driven by dee
 
 <div align="center">
 
-![Vansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vansh7nvc&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+![Vansh's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=vansh7nvc&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 ![GitHub Streak](https://streak-stats.demolab.com?user=vansh7nvc&theme=tokyonight&hide_border=true)
 
 </div>
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vansh7nvc&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vansh7nvc&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
