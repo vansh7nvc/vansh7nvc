@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C8FF,100:8A2BE2&height=240&section=header&text=Vansh%20Sharma&fontAlignY=38&fontSize=60&fontColor=ffffff&desc=Full-Stack%20%26%20AI%20Developer" width="100%" />
 
+</div>
+
 <br/>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&height=60&lines=Full-Stack+MERN+Developer+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Building+Intelligent+Systems+%E2%9C%A8)
