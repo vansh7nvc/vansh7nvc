@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C8FF,100:8A2BE2&height=240&section=header&text=Vansh%20Sharma&fontAlignY=38&fontSize=60&fontColor=ffffff&desc=Full-Stack%20MERN%20%7C%20AI%20and%20Machine%20Learning&descAlignY=60&descSize=20&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C8FF,100:8A2BE2&height=240&section=header&text=Vansh%20Sharma&fontAlignY=38&fontSize=60&fontColor=ffffff&desc=Full-Stack%20Developer%20%26%20AI%20Enthusiast" width="100%" />
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&height=60&lines=Full-Stack+MERN+Developer+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Building+Intelligent+Systems+%E2%9C%A8)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&height=60&lines=Full-Stack+MERN+Developer+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96)
 
 <br/>
 
@@ -96,6 +96,13 @@ I am a Full-Stack Developer and Artificial Intelligence enthusiast driven by dee
       <h3>🖍️ <a href="https://github.com/vansh7nvc/Drawly">Drawly</a></h3>
       <p>A creative web-based drawing tool designed for simplicity, fluid strokes, and smooth artistic expression directly in the browser.</p>
       <code>JavaScript · Frontend</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✨ <a href="https://github.com/vansh7nvc/Abstractify">Abstractify</a></h3>
+      <p>Transform raw data and complex concepts into clear, concise abstract summaries using intelligent AI-powered abstraction. Perfect for quickly grasping core ideas.</p>
+      <code>AI · TypeScript · NLP</code>
     </td>
   </tr>
 </table>
