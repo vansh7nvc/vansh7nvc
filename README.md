@@ -352,19 +352,9 @@ I am a **Software Engineer and AI/ML Researcher** focused on developing resource
 ### ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-```text
-🕐 Coding Stats (WakaTime integration coming soon!)
-
-Python       ██████████████░░░░░░░░░░░   56.2%
-TypeScript   ██████████░░░░░░░░░░░░░░░   25.4%
-JavaScript   ████░░░░░░░░░░░░░░░░░░░░░    8.7%
-C++          ██░░░░░░░░░░░░░░░░░░░░░░░    4.1%
-Docker       █░░░░░░░░░░░░░░░░░░░░░░░░    2.8%
-Other        █░░░░░░░░░░░░░░░░░░░░░░░░    2.8%
-```
 <!--END_SECTION:waka-->
 
-> 💡 *Install [WakaTime](https://wakatime.com/) + [waka-readme-stats](https://github.com/anmol098/waka-readme-stats) GitHub Action to auto-update this section with your real coding metrics!*
+> 💡 **Setup:** Install the [WakaTime](https://wakatime.com/plugins) extension in VS Code, then add your API key as a repository secret named `WAKATIME_API_KEY`. The action will auto-populate this section with your real coding stats!
 
 ---
 
